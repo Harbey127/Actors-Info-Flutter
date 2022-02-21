@@ -1,16 +1,8 @@
-# actors_info
+# Actors Info.
+An application that shows you information about the actors of a series The Breaking Bad.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://user-images.githubusercontent.com/94745074/155033308-7b341aaf-a2e3-4d56-bb87-453ad5810bea.jpeg)
+![4](https://user-images.githubusercontent.com/94745074/155033313-9c8050a4-a8fd-424c-9340-7b057516a6d3.jpeg)
+![1](https://user-images.githubusercontent.com/94745074/155033315-4baf6bc2-f5de-4c00-a749-5d8188779d5d.jpeg)
+![2](https://user-images.githubusercontent.com/94745074/155033317-95a92837-1783-4fa3-9b2a-31a0b70fbf12.jpeg)
